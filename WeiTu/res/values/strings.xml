@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">WeiTu</string>
+    <string-array name="menu_list">
+        <item >刷新</item>
+        <item >上传</item>
+        <item >全部下载</item>
+    </string-array>
+</resources>
